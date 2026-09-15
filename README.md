@@ -47,10 +47,14 @@ My experience includes:
 - Git-based workflows and Azure DevOps
 - Agile development with Scrum
 
-⭐ Featured Projects
-   └── AppBank
+## ⭐ Featured Projects
+   ### 🏦 AppBank
+   A digital banking simulation built with native PHP using an MVC architecture.
+   
+---
 
-📫 Contact
-   ├── LinkedIn
-   └── Email
+## 📫 Contact
+
+- **LinkedIn:** [linkedin.com/in/joseoñate15](https://www.linkedin.com/in/joseoñate15)
+- **Email:** ingeniero.josec@gmail.com
    
