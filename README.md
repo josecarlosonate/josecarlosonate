@@ -48,13 +48,18 @@ My experience includes:
 - Agile development with Scrum
 
 ## ⭐ Featured Projects
-   ### 🏦 AppBank
+   ### 🏦 AppBank 
    A digital banking simulation built with native PHP using an MVC architecture.
+
+   ### 📦 StockCore 
+   A production-oriented inventory REST API built with Laravel and PostgreSQL, 
+   featuring authentication, stock tracking, transactional consistency, 
+   concurrency control, and automated testing.
    
 ---
 
 ## 📫 Contact
 
-- **LinkedIn:** [linkedin.com/in/joseoñate15](https://www.linkedin.com/in/joseoñate15)
+- **LinkedIn:** [linkedin.com/in/josecarlosonate](https://www.linkedin.com/in/josecarlosonate)
 - **Email:** ingeniero.josec@gmail.com
    
