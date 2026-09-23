@@ -49,7 +49,9 @@ My experience includes:
 
 ## ⭐ Featured Projects
    ### 🏦 AppBank 
-   A digital banking simulation built with native PHP using an MVC architecture.
+   Native PHP MVC banking simulation with auth and multi-account transfers. 
+   Handles third-party accounts, transaction history, and monthly summaries
+   with custom routing, middleware, and a service layer.
 
    ### 📦 StockCore 
    A production-oriented inventory REST API built with Laravel and PostgreSQL, 
