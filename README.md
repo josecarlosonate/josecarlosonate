@@ -1,6 +1,6 @@
 # Hi, I'm Jose Carlos 👋
 
-### Full-Stack Developer | PHP · Laravel · TypeScript · React · Next.js
+### Full-Stack Developer | PHP · Laravel · TypeScript · React · GraphQL
 
 I'm a Full-Stack Software Developer with **5+ years of professional experience**
 building and maintaining web applications.
