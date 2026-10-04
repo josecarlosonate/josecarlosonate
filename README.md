@@ -48,12 +48,12 @@ My experience includes:
 - Agile development with Scrum
 
 ## ⭐ Featured Projects
-   ### 🏦 AppBank 
+   ### [🏦 AppBank ](https://github.com/josecarlosonate/AppBank)
    Native PHP MVC banking simulation with auth and multi-account transfers. 
    Handles third-party accounts, transaction history, and monthly summaries
    with custom routing, middleware, and a service layer.
 
-   ### 📦 StockCore 
+   ### [📦 StockCore](https://github.com/josecarlosonate/StockCore)
    A production-oriented inventory REST API built with Laravel and PostgreSQL, 
    featuring authentication, stock tracking, transactional consistency, 
    concurrency control, and automated testing.
