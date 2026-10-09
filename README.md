@@ -1,17 +1,12 @@
 # Hi, I'm Jose Carlos 👋
 
-### Full-Stack Developer | PHP · Laravel · TypeScript · React · GraphQL
+### PHP / Laravel Developer | Backend · Full-Stack
 
-I'm a Full-Stack Software Developer with **5+ years of professional experience**
-building and maintaining web applications.
+I'm a Software Developer with **5+ years of professional experience** building and maintaining web applications.
 
-My strongest experience is in backend development with **PHP and Laravel**,
-working with REST APIs, GraphQL, relational databases and business logic.
-I also build modern frontend applications using **TypeScript, React and Next.js**.
+My strongest experience is in backend development with **PHP and Laravel**, working with REST APIs, GraphQL, relational databases, business logic, and API integrations. I also work across the frontend with **JavaScript, TypeScript and React** when projects require a full-stack approach.
 
-Throughout my professional experience, I've worked with technologies including
-**PHP, Laravel, JavaScript, TypeScript, React, Next.js, MySQL, PostgreSQL,
-SQL Server, REST APIs, GraphQL, Docker and Git**.
+🌐 **Portfolio:** [www.josecarlosonate.com](https://www.josecarlosonate.com)
 
 ---
 
@@ -21,10 +16,10 @@ SQL Server, REST APIs, GraphQL, Docker and Git**.
 PHP · Laravel · REST APIs · GraphQL
 
 **Frontend**  
-JavaScript · TypeScript · React · Next.js · HTML5 · CSS3
+JavaScript · TypeScript · React · HTML5 · CSS3
 
 **UI & Styling**  
-Bootstrap · Tailwind CSS
+Tailwind CSS · Bootstrap
 
 **Databases**  
 MySQL · PostgreSQL · SQL Server
@@ -34,8 +29,7 @@ Git · GitHub · Docker · Azure DevOps
 
 ## 💼 Professional Experience
 
-I have 5+ years of professional software development experience,
-working on web applications and backend systems across different projects.
+I have 5+ years of professional software development experience, working on web applications and backend systems across different projects.
 
 My experience includes:
 
@@ -48,20 +42,23 @@ My experience includes:
 - Agile development with Scrum
 
 ## ⭐ Featured Projects
-   ### [🏦 AppBank ](https://github.com/josecarlosonate/AppBank)
-   Native PHP MVC banking simulation with auth and multi-account transfers. 
-   Handles third-party accounts, transaction history, and monthly summaries
-   with custom routing, middleware, and a service layer.
 
-   ### [📦 StockCore](https://github.com/josecarlosonate/StockCore)
-   A production-oriented inventory REST API built with Laravel and PostgreSQL, 
-   featuring authentication, stock tracking, transactional consistency, 
-   concurrency control, and automated testing.
-   
+### [🏦 AppBank](https://github.com/josecarlosonate/AppBank)
+
+Native PHP MVC banking simulation with authentication and multi-account transfers. Handles third-party accounts, transaction history, and monthly summaries with custom routing, middleware, and a service layer.
+
+### [📦 StockCore](https://github.com/josecarlosonate/StockCore)
+
+Production-oriented inventory REST API built with Laravel and PostgreSQL, featuring authentication, stock tracking, transactional consistency, concurrency control, and automated testing.
+
+### [🎫 ZendTicket](https://github.com/josecarlosonate/ZendTicket)
+
+Ticket management application built with Laravel, Blade and Tailwind CSS, featuring role-based permissions, ticket workflows, activity tracking, and automated testing.
+
 ---
 
 ## 📫 Contact
 
+- **Portfolio:** [www.josecarlosonate.com](https://www.josecarlosonate.com)
 - **LinkedIn:** [linkedin.com/in/josecarlosonate](https://www.linkedin.com/in/josecarlosonate)
 - **Email:** ingeniero.josec@gmail.com
-   
