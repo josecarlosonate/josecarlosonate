@@ -1,6 +1,6 @@
 # Hi, I'm Jose Carlos 👋
 
-### PHP / Laravel Developer | Backend · Full-Stack
+### Full-Stack Developer | PHP-Laravel | React · 
 
 I'm a Software Developer with **5+ years of professional experience** building and maintaining web applications.
 
@@ -29,7 +29,7 @@ Git · GitHub · Docker · Azure DevOps
 
 ## 💼 Professional Experience
 
-I have 5+ years of professional software development experience, working on web applications and backend systems across different projects.
+I have 4+ years of professional software development experience, working on web applications and backend systems across different projects.
 
 My experience includes:
 
