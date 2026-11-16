@@ -1,6 +1,6 @@
 # Hi, I'm Jose Carlos 👋
 
-### Full-Stack Developer | PHP-Laravel | React · 
+### Full-Stack Developer | PHP-Laravel | React · TypeScript.
 
 I'm a Software Developer with **5+ years of professional experience** building and maintaining web applications.
 
