@@ -16,7 +16,7 @@ My strongest experience is in backend development with **PHP and Laravel**, work
 PHP · Laravel · REST APIs · GraphQL
 
 **Frontend**  
-JavaScript · TypeScript · React · HTML5 · CSS3
+React · JavaScript · TypeScript · HTML5 · CSS3
 
 **UI & Styling**  
 Tailwind CSS · Bootstrap
